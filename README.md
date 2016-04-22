@@ -9,11 +9,16 @@ If features need a web server likely Caddy for simple lightweight or if we need 
 
 If we need a way to visualize how data flows between components JSJoint.  
 
-If we need to offer a message queue solution: 
 JSJoint for visualizing/graphical editing of flow. 
 http://www.jointjs.com/
 
+Google Dataflow for doing ETL in streaming and batch. 
+https://cloud.google.com/dataflow/
+
 Some kind of metadata management standard that exists.  
+
+If we need to offer a message queue solution: 
+
 
 Moving data between different source:
 https://github.com/golang/protobuf
