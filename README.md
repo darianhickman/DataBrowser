@@ -1,12 +1,15 @@
 # DataBrowser
-Add features to Google Chrome any way possible to browse big data whereever  in whatever format. Excel, SQL, CSV, large JSON, large nested XML to start.
+Goal is to Add features to Google Chrome any way possible to browse big data whereever in whatever format. Excel, SQL, CSV, large JSON, large nested XML, message queue to start.
 
 #Eventual platforms.  
 Completely hosted in cloud. 
 Installed as Desktop app probably using Electron. 
 Installed as Intranet server app to share internally and keep app maintenance simple for Enterprise customers.
 
-#Potential Features Tech stack
+#Tech stack by Feature
+Main language: Golang,
+Frontend: Standard Output and AngularJS for web, mobile. 
+
 
  For csv browsing PapaParse. 
 
