@@ -1,5 +1,5 @@
 # DataBrowser
-Goal is to Add features to Google Chrome any way possible to browse big data whereever in whatever format. Excel, SQL, CSV, large JSON, large nested XML, message queue to start.
+Goal is to Add features to Google Chrome any way possible to browse data whereever in whatever format. Excel, SQL, CSV, large JSON, large nested XML, message queue to start.
 
 #Eventual platforms.  
 Completely hosted in cloud. 
